@@ -1,4 +1,9 @@
-## Vítejte na stránkách o [iDempiere](http://idempiere.cz)
+## Vítejte na stránkách o [iDempiere ERP&CRM](http://idempiere.cz)
+
+- Chcete mít možnost své ERP nebo CRM vlastnit?
+- Chcete začít používat globální systém a objevit nové možnosti využívání ERP a CRM?
+- Chtete mít možnost řídit své výdaje do IT a přitom mít všechna data pod kontrolou?
+- Chcete být součástí skupiny firem, které díky svému ERP a CRM inovují a digitalizují své podnikání?
 
 [iDempiere](http://idempiere.cz) je pokročilý open-source ERP a CRM systém 
 pro společnosti střední a větší velikosti. Je k dispozici zdarma, vyvíjený komunitou vývojářů, jeho zdrojový kód je veřejně k dispozici a používá poslední technologie ze světa programovacího jazyka Java.
